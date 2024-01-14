@@ -7,7 +7,7 @@ namespace HelloWorld
     static void Main(string[] args)
     {
       Console.WriteLine("Hello World!");
-      public class ne{}
+      public class nerd{}
     }
   }
 }
