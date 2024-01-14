@@ -1,1 +1,1 @@
-function basic
+function basically
