@@ -1,1 +1,1 @@
-function basi
+function basic
