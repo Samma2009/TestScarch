@@ -1,5 +1,5 @@
 using System;
-g
+
 namespace HelloWorld
 {
   class Program
