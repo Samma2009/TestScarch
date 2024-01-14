@@ -1,2 +1,2 @@
 function basically;
-Fuc
+c
