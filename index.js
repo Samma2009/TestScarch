@@ -1,2 +1,2 @@
 function basically;
-Fi
+Func
