@@ -1,2 +1,2 @@
 using System.IO;
-f
+func
