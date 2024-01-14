@@ -8,7 +8,7 @@ namespace HelloWorld
     {
       Console.WriteLine("Hello World!");
       public class nerd{}
-      public classh {}
+      public classhi {}
     }
   }
 }
